@@ -1,0 +1,10 @@
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\bin\Debug\netcoreapp3.0\TokenManager.Repository.deps.json
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\bin\Debug\netcoreapp3.0\TokenManager.Repository.runtimeconfig.json
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\bin\Debug\netcoreapp3.0\TokenManager.Repository.runtimeconfig.dev.json
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\bin\Debug\netcoreapp3.0\TokenManager.Repository.dll
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\bin\Debug\netcoreapp3.0\TokenManager.Repository.pdb
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\obj\Debug\netcoreapp3.0\TokenManager.Repository.csprojAssemblyReference.cache
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\obj\Debug\netcoreapp3.0\TokenManager.Repository.AssemblyInfoInputs.cache
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\obj\Debug\netcoreapp3.0\TokenManager.Repository.AssemblyInfo.cs
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\obj\Debug\netcoreapp3.0\TokenManager.Repository.dll
+C:\Users\SaintBr\Source\Repos\TokenManager\TokenManager.Repository\obj\Debug\netcoreapp3.0\TokenManager.Repository.pdb
